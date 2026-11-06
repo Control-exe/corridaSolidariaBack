@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ApiCorridaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ApiCorridaApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ApiCorridaApplication.class, args);
+    }
 
 }
