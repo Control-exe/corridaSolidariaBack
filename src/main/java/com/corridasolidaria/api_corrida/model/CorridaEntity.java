@@ -12,7 +12,6 @@ import java.util.Date;
 @AllArgsConstructor
 @NoArgsConstructor
 public class CorridaEntity {
-
     private Long id;
     private String nome;
     private String email;
